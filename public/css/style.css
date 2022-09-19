@@ -371,6 +371,15 @@ ol, ul {
     padding-bottom: 35px;
 }
 
+#education a {
+    color: var(--main-title-color);
+    text-decoration: none;
+}
+
+#education a:hover {
+    text-decoration: underline;
+}
+
 .education-block {
     width: 80%;
     margin: 0 auto;

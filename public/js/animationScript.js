@@ -8,13 +8,21 @@ let ids = ["#office-pb",
             "#comm-indu-pb",
             "#html-pb",
             "#swift-pb",
+            "#swiftui-pb",
+            "#uikit-pb",
+            "#vapor-pb",
+            "#git-pb",
+            "#circleci-pb",
             "#javascript-pb",
             "#dart-pb",
             "#python-pb",
             "#php-pb"]
 
+let leftExperiences = ["xp-evesa"]
+            
+let rightExperiences = []
+
 function isOnScreen(elem) {
-    // if the element doesn't exist, abort
     if( elem.length == 0 ) {
         return;
     }
@@ -47,16 +55,31 @@ function animateProgressBar(element) {
         });
 }
 
+function animateLeftExperience(element) {
+    console.log("ok")
+    $(element).animate().fadeIn();
+}
+
 function checkIfMustAnimate() {
     ids.forEach(function(id) {
         if(isOnScreen(jQuery(id))) {
             animateProgressBar(id)
         }
     })
+
+    leftExperiences.forEach(function(id) {
+        if(isOnScreen(jQuery(id))) {
+            animateLeftExperience(id)
+        }
+    })
 }
 
 $(function() {
     ids.forEach(function(id) {
+        resetWidth(id)
+    })
+
+    leftExperiences.forEach(function(id) {
         resetWidth(id)
     })
 

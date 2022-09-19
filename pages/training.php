@@ -19,7 +19,7 @@
                 </a>
             </div>
 	    	<div class="col-md-6 col-lg-4">
-                <a href="public/docs/2021-06_Créer des apps iPhone avec SwiftUI.pdf" target="_blank">
+                <a href="public/docs/Diplôme-Bachelier.pdf" target="_blank">
                     <div class="formation-info img-thumbnail">
                         <h3>Créer des apps iPhone avec SwiftUI (Edition 2020 pour iOS 14)</h3>
                         <h4><img src="public/img/logo_pg.png"> Purple Giraffe</h4>

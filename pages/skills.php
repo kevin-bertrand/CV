@@ -32,6 +32,84 @@
         </div>
 
         <div class="row justify-content-center">
+            <h3>Développement</h3>
+            <div class="brown-divider"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h5>Swift</h5>
+                <div class="progress">
+                    <div id="swift-pb" class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" data-value="85">
+                        <h5>85%</h5>
+                    </div>
+                </div>
+                <h5>UIKit</h5>
+                <div class="progress">
+                    <div id="uikit-pb" class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" data-value="80">
+                        <h5>80%</h5>
+                    </div>
+                </div>
+                <h5>Vapor</h5>
+                <div class="progress">
+                    <div id="vapor-pb" class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" data-value="75">
+                        <h5>75%</h5>
+                    </div>
+                </div>
+                <h5>Circle-CI</h5>
+                <div class="progress">
+                    <div id="circleci-pb" class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" data-value="75">
+                        <h5>75%</h5>
+                    </div>
+                </div>
+                <h5>HTML/CSS</h5>
+                <div class="progress">
+                    <div id="html-pb" class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" data-value="70">
+                        <h5>70%</h5>
+                    </div>
+                </div>
+                <h5>Javasript</h5>
+                <div class="progress">
+                    <div id="javascript-pb" class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" data-value="70">
+                        <h5>70%</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h5>SwiftUI</h5>
+                <div class="progress">
+                    <div id="swiftui-pb" class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" data-value="80">
+                        <h5>80%</h5>
+                    </div>
+                </div>
+                <h5>Git</h5>
+                <div class="progress">
+                    <div id="git-pb" class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" data-value="75">
+                        <h5>75%</h5>
+                    </div>
+                </div>
+                <h5>Dart</h5>
+                <div class="progress">
+                    <div id="dart-pb" class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" data-value="75">
+                        <h5>75%</h5>
+                    </div>
+                </div>
+                <h5>Python</h5>
+                <div class="progress">
+                    <div id="python-pb" class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" data-value="70">
+                        <h5>70%</h5>
+                    </div>
+                </div>
+                <h5>PHP</h5>
+                <div class="progress">
+                    <div id="php-pb" class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" data-value="70">
+                        <h5>70%</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
             <h3>Automatique</h3>
             <div class="brown-divider"></div>
         </div>
@@ -74,54 +152,6 @@
                 <div class="progress">
                     <div id="comm-indu-pb" class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" data-value="75">
                         <h5>75%</h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="row justify-content-center">
-            <h3>Développement</h3>
-            <div class="brown-divider"></div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-6">
-                <h5>HTML/CSS</h5>
-                <div class="progress">
-                    <div id="html-pb" class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" data-value="70">
-                        <h5>70%</h5>
-                    </div>
-                </div>
-                <h5>Swift</h5>
-                <div class="progress">
-                    <div id="swift-pb" class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" data-value="85">
-                        <h5>85%</h5>
-                    </div>
-                </div>
-                <h5>Javasript</h5>
-                <div class="progress">
-                    <div id="javascript-pb" class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" data-value="70">
-                        <h5>70%</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <h5>Dart</h5>
-                <div class="progress">
-                    <div id="dart-pb" class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" data-value="75">
-                        <h5>75%</h5>
-                    </div>
-                </div>
-                <h5>Python</h5>
-                <div class="progress">
-                    <div id="python-pb" class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" data-value="70">
-                        <h5>70%</h5>
-                    </div>
-                </div>
-                <h5>PHP</h5>
-                <div class="progress">
-                    <div id="php-pb" class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" data-value="70">
-                        <h5>70%</h5>
                     </div>
                 </div>
             </div>

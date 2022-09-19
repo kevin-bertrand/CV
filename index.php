@@ -78,7 +78,7 @@
     ?>
     <footer class="text-center">
         <a href="#" class="back-to-top-link" id="go-top-button"><i class="bi bi-chevron-up"></i></a>
-        <h5>© 2021 - Kevin Bertrand</h5>
+        <h5>© 2022 - Kevin Bertrand</h5>
     </footer>    
 </body>
 </html>

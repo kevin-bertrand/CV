@@ -7,19 +7,52 @@
             </div>
 
             <ul class="timeline">
+            <li>
+                    <div class="timeline-badge"><i class="bi bi-briefcase-fill"></i></div>
+
+                    <div class="timeline-panel-container" id="xp-realdev">
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3><img src="public/img/logo_realdev.png"> RealDev</h3>
+                                <h4>Ingénieur automaticien</h4>
+                                <h5 class="job-type">CDI</h5>
+                                <h5>Bruxelles - Belgique</h5>
+                                <p class="text-muted"><small><i class="bi bi-clock"></i> Novembre 2021 - Janvier 2022</small></p>
+                            </div>
+                            <div class="timeline-body">
+                                <p>
+                                    Mise en place de conseils d'amélioration d'installations automatiques
+                                    <ul>
+                                        <li>Analyse et documentation des installations existantes</li>
+                                        <li>Analyse des besoins du client</li>
+                                        <li>Mise en place de "Basic of Design"</li>
+                                        <li>Suivi des améliorations dans les locaux des clients</li>
+                                    </ul>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
                 <li>
                     <div class="timeline-badge"><i class="bi bi-briefcase-fill"></i></div>
 
-                    <div class="timeline-panel-container">
+                    <div class="timeline-panel-container-inverted" id="xp-evesa">
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h3><img src="public/img/logo_evesa.png"> Evesa</h3>
-                                <h4>Automaticien</h4>
+                                <h4>Ingénieur automaticien</h4>
                                 <h5 class="job-type">CDI</h5>
                                 <h5>Paris - France</h5>
-                                <p class="text-muted"><small><i class="bi bi-clock"></i> Janvier 2020 - ...</small></p>
+                                <p class="text-muted"><small><i class="bi bi-clock"></i> Janvier 2020 - Octobre 2021</small></p>
                             </div>
                             <div class="timeline-body">
+                                <p>
+                                    Mise en place d'un logiciel de gestion des stocks
+                                    <ul>
+                                        <li>Création d'une base de données en MySQL</li>
+                                        <li>Création d'une interface web avec gestion des rôles utilisateurs</li>
+                                    </ul>
+                                </p>
                                 <p>
                                     Gestion de projet de mise en place d'un éclairage intelligent:
                                     <ul>
@@ -42,7 +75,7 @@
                 <li>
                     <div class="timeline-badge"><i class="bi bi-briefcase-fill"></i></div>
 
-                    <div class="timeline-panel-container-inverted">
+                    <div class="timeline-panel-container">
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h3><img src="public/img/logo_uliege.jpg"> Unité de recherche BIOSE - Liège Université</h3>
@@ -52,6 +85,14 @@
                                 <p class="text-muted"><small><i class="bi bi-clock"></i> Février 2018 - Août 2019</small></p>
                             </div>
                             <div class="timeline-body">
+                                <p>
+                                    Projet de reproduction d'un spectre lumineux
+                                    <ul>
+                                        <li>Analyse d'un spectre lumineux existant grâce à un micro-spectrophotomètre raccordé à une Raspberry PI</li>
+                                        <li>Programmation de la Raspberry PI en python</li>
+                                        <li>Développement d'une application mobile Android pour gérer la Raspberry via le Bluetooth</li>
+                                    </ul>
+                                </p>
                                 <p>Gestion de projet suivant la méthode Scrum.</p>
                                 <p>
                                     Projet d'automatisation d'un conteneur de culture indoor:
@@ -68,7 +109,7 @@
                 <li>
                     <div class="timeline-badge"><i class="bi bi-briefcase-fill"></i></div>
 
-                    <div class="timeline-panel-container">
+                    <div class="timeline-panel-container-inverted">
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h3><img src="public/img/logo_augen.jpeg"> Augen</h3>
@@ -94,7 +135,7 @@
                 <li>
                     <div class="timeline-badge"><i class="bi bi-briefcase-fill"></i></div>
 
-                    <div class="timeline-panel-container-inverted">
+                    <div class="timeline-panel-container">
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h3><img src="public/img/logo_polyone.png"> PolyOne</h3>

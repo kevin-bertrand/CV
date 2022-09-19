@@ -21,6 +21,7 @@ function getAge() {
                 <h6><a href="tel:+33778840190"><span class="bi bi-telephone-fill"></span> +33 7 78 84 01 90</a></h6>
                 <h6><a href="mailto:kevin.bertrand@outlook.com"><i class="bi bi-envelope-open-fill"></i> kevin.bertrand@outlook.com</a></h6>
                 <h6><a href="https://www.linkedin.com/in/kevin-bertrand" target="_blank"><i class="bi bi-linkedin"></i> /kevin-bertrand</a></h6>
+                <h6><a href="https://github.com/kevin-bertrand" target="_blank"><i class="bi bi-github"></i>/kevin-bertrand</a></h6>
                 <h6><i class="fas fa-car"></i>   Permis: B (novembre 2015)</h6>
                 <h6><i class="fas fa-birthday-cake"></i>23 octobre 1997 (<?= getAge(); ?> ans)</h6>
             </div>

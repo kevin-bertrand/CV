@@ -14,6 +14,20 @@
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
                         <div class="carousel-caption">
+                            <h3>Application de gestion des devis et factures</h3>
+                            <h4>Desyntic</h4>
+                        </div>
+                        <img src="../public/img/project-gestion.png" alt="Projet AniTrip">
+                    </div>
+                    <div class="carousel-item">
+                        <div class="carousel-caption">
+                            <h3>Application de suivi des trajets</h3>
+                            <h4>Projet personnel</h4>
+                        </div>
+                        <img src="../public/img/project-Anitrip.png" alt="Projet AniTrip">
+                    </div>
+                    <div class="carousel-item">
+                        <div class="carousel-caption">
                             <h3>Automatisation d'une piscine public</h3>
                             <h4>PromoSport</h4>
                         </div>
@@ -31,13 +45,15 @@
                             <h3>Mise en place d'un éclairage intelligent</h3>
                             <h4>Ville de Paris (15e arrondissement)</h4>
                         </div>
-                        <img src="../public/img/project-qi15.png" alt="Projet quartier intelligent du 15eme">
+                        <video autoplay loop controls><source src="../public/video/project-qi15.webm" type="video/webm"></video>
                     </div>
                 </div>
                 <div class="carousel-indicators">
                     <button type="button" data-bs-target="#projects-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Projects 1"></button>
                     <button type="button" data-bs-target="#projects-carousel" data-bs-slide-to="1" aria-label="Projects 2"></button>
                     <button type="button" data-bs-target="#projects-carousel" data-bs-slide-to="2" aria-label="Projects 3"></button>
+                    <button type="button" data-bs-target="#projects-carousel" data-bs-slide-to="3" aria-label="Projects 4"></button>
+                    <button type="button" data-bs-target="#projects-carousel" data-bs-slide-to="4" aria-label="Projects 5"></button>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#projects-carousel" data-bs-slide="prev">
                     <i class="bi bi-chevron-left"></i>
