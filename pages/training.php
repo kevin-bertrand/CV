@@ -10,7 +10,7 @@
         <div class="row">
         	
         	<div class="col-md-6 col-lg-4">
-                <a href="public/docs/2021-03_Formation-complete-développeur-web.pdf" target="_blank">
+                <a href="public/docs/2021-03_Formation-complete-developpeur-web.pdf" target="_blank">
                     <div class="formation-info img-thumbnail">
                         <h3>Formation Complète de développeur web</h3>
                         <h4><img src="public/img/logo_udemy.png"> Udemy</h4>
