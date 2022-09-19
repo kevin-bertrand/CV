@@ -10,8 +10,8 @@ function getAge() {
 <section id="presentation">
     <div class="container">
         <h1>Bienvenue !</h1>
-        <p id="main-presentation">Je m'appelle Kevin Bertrand et je suis automaticien et développeur.</p>
-        <p id="description-presentation">Actuellement en CDI chez Evesa, j'occupe un poste d'automaticien au sein du service Expertise et Innovations</p>
+        <p id="main-presentation">Je m'appelle Kevin Bertrand et je suis développeur d'applications iOS et ingénieur automaticien.</p>
+        <p id="description-presentation">Je recherche actuellement un poste de développeur d'application iOS</p>
 
         <div class="row">
             <div class="col-3 offset-lg-2" id="presentation-picture">
