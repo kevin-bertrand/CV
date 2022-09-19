@@ -46,9 +46,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#projects-section">Projets</a>
                     </li>
-                    <li class="nav-item">
+                    <!--<li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
-                    </li>
+                    </li>-->
                 </ul>
             </div>
         </div>
@@ -74,7 +74,7 @@
         require("pages/projects.php");
 
         // CONTACT
-        require("pages/contact.php")
+        //require("pages/contact.php")
     ?>
     <footer class="text-center">
         <a href="#" class="back-to-top-link" id="go-top-button"><i class="bi bi-chevron-up"></i></a>
