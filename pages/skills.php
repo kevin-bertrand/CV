@@ -84,8 +84,8 @@
                 </div>
                 <h5>Git</h5>
                 <div class="progress">
-                    <div id="git-pb" class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" data-value="75">
-                        <h5>75%</h5>
+                    <div id="git-pb" class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" data-value="70">
+                        <h5>70%</h5>
                     </div>
                 </div>
                 <h5>Dart</h5>
