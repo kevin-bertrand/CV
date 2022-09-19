@@ -45,7 +45,7 @@
                             <h3>Mise en place d'un éclairage intelligent</h3>
                             <h4>Ville de Paris (15e arrondissement)</h4>
                         </div>
-                        <video autoplay loop controls><source src="../public/video/project-qi15.webm" type="video/webm"></video>
+                        <video autoplay loop controls mute><source src="../public/video/project-qi15.webm" type="video/webm"></video>
                     </div>
                 </div>
                 <div class="carousel-indicators">
