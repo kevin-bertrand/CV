@@ -27,7 +27,7 @@
                 <div class="education-block">
                     <h5>2015-2018</h5>
                     <i class="bi bi-book-half"></i>
-                    <h3><a href="public/docs/Diplôme-Bachelier.pdf" target="_blank">Haute Ecole de Namur-Liège-Luxembourg (Hénallux)</a></h3>
+                    <h3><a href="public/docs/Diplome-Bachelier.pdf" target="_blank">Haute Ecole de Namur-Liège-Luxembourg (Hénallux)</a></h3>
                     <h4>Bachelier en informatique et système finalité automation (Bac+3)</h4>
                     <h5>Namur - Belgique</h5>
                     <div class="red-divider"></div>
@@ -40,7 +40,7 @@
                 <div class="education-block">
                     <h5>2009-2015</h5>
                     <i class="bi bi-book-half"></i>
-                    <h3><a href="public/docs/Diplôme-CESS.pdf" target="_blank">Collège saint-Guibert</a></h3>
+                    <h3><a href="public/docs/Diplome-CESS.pdf" target="_blank">Collège saint-Guibert</a></h3>
                     <h4>CESS et CQ6 en électricien-automaticien (BAC)</h4>
                     <h5>Gembloux - Belgique</h5>
                     <div class="red-divider"></div>
